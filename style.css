@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-
 body{
-  background: #06BDC1;
-  background: -webkit-radial-gradient(center, #06BDC1, #68469F);
-  background: -moz-radial-gradient(center, #06BDC1, #68469F);
-  background: radial-gradient(ellipse at center, #06BDC1, #68469F);
+  background: #bcf0f0;
+  background: -webkit-radial-gradient(center, #b3ebec, #bfa3eb);
+  background: -moz-radial-gradient(center, #a3f5f7, #c7acf3);
+  background: radial-gradient(ellipse at center, #b7e8e9, #c1a1f3);
 }
 
 .container{
