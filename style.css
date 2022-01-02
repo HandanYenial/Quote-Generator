@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body{
+  background: #06BDC1;
+  background: -webkit-radial-gradient(center, #06BDC1, #68469F);
+  background: -moz-radial-gradient(center, #06BDC1, #68469F);
+  background: radial-gradient(ellipse at center, #06BDC1, #68469F);
+}
+
+.container{
+  width: 1280px;
+  margin: auto;
+}
+
+.quotes-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
