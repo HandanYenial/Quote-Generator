@@ -14,3 +14,14 @@ generate=()=>{
         "- Earl Nightingale": '"We become what we think about."',
         
     }
+    
+    
+let authors=Object.keys(quotes);
+let author=authors[Math.floor(Math.random()*authors.length)];
+
+let quote=quotes[author];
+
+document.querySelector("#quote").textContent = quote;
+document.querySelector("#author").textContent = author;
+
+}
